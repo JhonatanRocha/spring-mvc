@@ -1,0 +1,9 @@
+.project
+.classpath
+tmp/
+*.tmp
+local.properties
+.settings/
+bin/
+build/
+.metadata
